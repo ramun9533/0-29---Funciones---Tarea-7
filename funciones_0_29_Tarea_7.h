@@ -3,7 +3,7 @@
 using namespace std;
 int pidedato(){
     int vueltas;
-    cout<<"Dime la cantida de vueltas de alambre que deseas darle al terreno terreno"<<endl;
+    cout<<"Dime la cantida de vueltas de alambre que deseas darle al terreno"<<endl;
     cin>>vueltas;
     return vueltas;
 }
